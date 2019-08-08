@@ -11,7 +11,7 @@
 
 	<parent>
 		<groupId>com.test</groupId>
-		<artifactId>maven-release-plugin-example</artifactId>
+		<artifactId>parent-project</artifactId>
 		<version> 0.22-SNAPSHOT</version>
 	</parent>
 
